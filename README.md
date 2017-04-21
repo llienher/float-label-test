@@ -1,4 +1,4 @@
-#Test float-label
+# Test float-label
 
 Simple test for lib float-label with boostrap 4 and tweak for Firefox support (moz prefixes for placeholder pseudo-class).
 
